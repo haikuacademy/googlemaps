@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+#map {
+  height: 100vh;
+}
+
+.custom-map-control-button {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid grey;
+}
